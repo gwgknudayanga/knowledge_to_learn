@@ -9,6 +9,6 @@ Nightime image comparison
 490 frame,608 evframe   - fast movement in low light. 
 
 
-# In our yolov6 training we use achor-free concept.Also we keep the Exponential moving average (EMA) of our model weights (self.ema = ModelEMA(model) if self.main_process else None)
-#to improve the model stability and the generalizability.
+** In our yolov6 training we use achor-free concept.Also we keep the Exponential moving average (EMA) of our model weights (self.ema = ModelEMA(model) if self.main_process else None)
+to improve the model stability and the generalizability.
 
