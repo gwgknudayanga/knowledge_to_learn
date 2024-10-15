@@ -12,3 +12,12 @@ Nightime image comparison
 ** In our yolov6 training we use achor-free concept.Also we keep the Exponential moving average (EMA) of our model weights (self.ema = ModelEMA(model) if self.main_process else None)
 to improve the model stability and the generalizability.
 
+
+
+
+Papers
+
+1. Direct training high-performance spiking neural networks for object recognition and detection**
+   https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1229951/full
+   
+
